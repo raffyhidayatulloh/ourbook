@@ -23,7 +23,7 @@ An Android application for managing book collections. This app provides a clean 
 
 | Splash Screen | Main Activity | Add Book Page |
 |---------------|----------------|----------------|
-| ![Splash Screen](screenshot/splash.png) | ![MainActivity](screenshot/main.png) | ![Input Page](screenshot/add.png) |
+| ![Splash Screen](screenshot/splash.jpg) | ![MainActivity](screenshot/main.jpg) | ![Input Page](screenshot/add.jpg) |
 
 ---
 
