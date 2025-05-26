@@ -23,7 +23,7 @@ An Android application for managing book collections. This app provides a clean 
 
 | Splash Screen | Main Activity | Add Book Page |
 |---------------|----------------|----------------|
-| ![Splash Screen](screenshot/splash_screen.png) | ![MainActivity](screenshot/main_activity.png) | ![Input Page](screenshot/input_page.png) |
+| ![Splash Screen](screenshot/splash.png) | ![MainActivity](screenshot/main.png) | ![Input Page](screenshot/add.png) |
 
 ---
 
@@ -43,7 +43,7 @@ An Android application for managing book collections. This app provides a clean 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/ourbook.git
+git clone https://github.com/raffyhidayatulloh/ourbook.git
 ```
 
 2. Open the project in Android Studio
