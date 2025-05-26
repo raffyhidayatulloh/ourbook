@@ -21,9 +21,9 @@ An Android application for managing book collections. This app provides a clean 
 
 ## 📱 Screenshots
 
-| Splash Screen | Main Activity | Add Book Page |
+| Splash Screen | Main Activity | Add Activity |
 |---------------|----------------|----------------|
-| ![Splash Screen](screenshot/splash.jpg) | ![MainActivity](screenshot/main.jpg) | ![Input Page](screenshot/add.jpg) |
+| <img src="screenshot/splash.jpg" width="250"/> | <img src="screenshot/main.jpg" width="250"/> | <img src="screenshot/add.jpg" width="250"/> |
 
 ---
 
