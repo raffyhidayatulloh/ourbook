@@ -1,4 +1,4 @@
-# 📖 ourbook
+## OurBook
 
 An Android application for managing book collections. This app provides a clean and interactive user experience with data input, edit, delete, and visual feedback. It uses **SQLite** as its local database and integrates various UI/UX enhancements like **Lottie animations**, **SweetAlert**, and **DatePicker**.
 
