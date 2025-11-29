@@ -1,40 +1,36 @@
-## OurBook
+# OurBook
 
-An Android application for managing book collections. This app provides a clean and interactive user experience with data input, edit, delete, and visual feedback. It uses **SQLite** as its local database and integrates various UI/UX enhancements like **Lottie animations**, **SweetAlert**, and **DatePicker**.
+**OurBook** is an Android app for managing book collections, featuring clean UI/UX with add, edit, delete, and visual feedback. It uses SQLite for local storage and integrates Lottie animations, SweetAlert, and DatePicker for an enhanced experience.
+
+![GitHub repo size](https://img.shields.io/github/repo-size/raffyhidayatulloh/ourbook)
+![GitHub issues](https://img.shields.io/github/issues/raffyhidayatulloh/ourbook)
+![GitHub forks](https://img.shields.io/github/forks/raffyhidayatulloh/ourbook)
+![GitHub stars](https://img.shields.io/github/stars/raffyhidayatulloh/ourbook)
 
 ---
 
 ## ✨ Features
 
-- 🚀 **Splash screen with Lottie animation**
-- 📋 **MainActivity** displays a list of added books
-- ➕ **Add Book Page** with:
+- 🚀 Animated **Splash Screen** with Lottie 
+- 📋 **MainActivity** shows all added books  
+- ➕ **Add / Edit Book** with:
   - Input validation
-  - DatePicker for selecting publish dates
-  - Upload images from camera or local storage
-- ✏️ **Edit existing data**
-- 🗑️ **Delete entries** with confirmation via SweetAlert
-- ℹ️ **About Page** with application information
-- 💾 **Local storage** using SQLite database
-
----
-
-## 📱 Screenshots
-
-| Splash Screen | Main Activity | Add Activity |
-|---------------|----------------|----------------|
-| <img src="screenshot/splash.jpg" width="250"/> | <img src="screenshot/main.jpg" width="250"/> | <img src="screenshot/add.jpg" width="250"/> |
+  - DatePicker for publish date
+  - Upload images (camera or storage)
+- 🗑️ **Delete entries** with SweetAlert confirmation  
+- ℹ️ **About Page** for app info 
+- 💾 **Local SQLite storage** 
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Java / Kotlin** (depending on your project)
-- **SQLite** (local data storage)
-- **Lottie** (for animated splash screen)
-- **SweetAlert** (confirmation dialogs)
-- **DatePickerDialog**
-- **File & Camera Access**
+- **Java / Kotlin**  
+- **SQLite**  
+- **Lottie**  
+- **SweetAlert**  
+- **DatePickerDialog**  
+- **Camera & File Access**  
 
 ---
 
@@ -46,6 +42,14 @@ An Android application for managing book collections. This app provides a clean 
 git clone https://github.com/raffyhidayatulloh/ourbook.git
 ```
 
-2. Open the project in Android Studio
+2. Open project in Android Studio
 
 3. Sync Gradle and run on your emulator or device
+
+---
+
+## 📸 Screenshots
+
+| Splash Screen | Main Activity | Add Activity |
+|---------------|----------------|----------------|
+| <img src="screenshot/splash.jpg" width="250"/> | <img src="screenshot/main.jpg" width="210"/> | <img src="screenshot/add.jpg" width="210"/> |
